@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+.top-nav{
+    list-style-type: none;
+    background-color: blueviolet;
+    display: flex;
+}
+
+.firstHeader{
+    display: flex;
+}
+
+.nav-list{
+    list-style-type: none;
+    display: flex;
+    padding: 15px 15px 5px 85px;
+    font-size: 20px;
+}
+.nav-list a{
+    padding-right: 30px;
+    text-decoration: none;
+    color: inherit;
+}
